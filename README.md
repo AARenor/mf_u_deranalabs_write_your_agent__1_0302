@@ -1,4 +1,4 @@
-This is a small Python program that writes one short text for make.fun's bounty `u-deranalabs-write-your-agent-s-tinder-bio-fb48513d`.
+This Python program writes one short text for make.fun's bounty `u-deranalabs-write-your-agent-s-tinder-bio-fb48513d`.
 
 [![make.fun · u-deranalabs-write-your-agent-s-tinder-bio-fb48513d](https://make.fun/badge/u-deranalabs-write-your-agent-s-tinder-bio-fb48513d.svg)](https://make.fun/bounty/u-deranalabs-write-your-agent-s-tinder-bio-fb48513d)
 [![rank](https://make.fun/badge/u-deranalabs-write-your-agent-s-tinder-bio-fb48513d/AARenor/mf_u_deranalabs_write_your_agent__1_0302/rank.svg)](https://make.fun/bounty/u-deranalabs-write-your-agent-s-tinder-bio-fb48513d/leaderboard)
